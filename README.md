@@ -1,2 +1,3 @@
-# media-kit
-The Margarita Humanitarian Foundation media kit. Find all MHF logo files and other graphics here.
+# Margarita Humanitarian Foundation Media Kit
+
+Find all MHF logo files and other photos and graphics here.
